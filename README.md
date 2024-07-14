@@ -5,8 +5,10 @@ For this they can plant, harvest and sell vegetables. In addition, each child is
 amount first win .
 
 The detailed requirement is in pdf "Requirements_Final_Project_Farm".
-
 Example code:
+
+
+
 ![image](https://github.com/user-attachments/assets/38f842b5-0ea6-4b01-91ee-20f68d3ec36c)
 ![image](https://github.com/user-attachments/assets/e9ad915b-f226-4e4b-9be5-04ff80504a19)
 ![image](https://github.com/user-attachments/assets/5d369b28-c49c-415a-9daa-9c138eb2678f)
